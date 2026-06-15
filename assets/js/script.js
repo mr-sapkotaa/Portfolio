@@ -1,4 +1,5 @@
 'use strict';
+
 /* ---- Sidebar toggle ---- */
 const sidebar    = document.querySelector('[data-sidebar]');
 const sidebarBtn = document.querySelector('[data-sidebar-btn]');
