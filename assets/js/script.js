@@ -87,4 +87,3 @@ formInputs.forEach(input => {
       : formBtn.setAttribute('disabled', ''));
   });
 });
-
