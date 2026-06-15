@@ -1,6 +1,4 @@
 'use strict';
-
-<<<<<<< HEAD
 /* ---- Sidebar toggle ---- */
 const sidebar    = document.querySelector('[data-sidebar]');
 const sidebarBtn = document.querySelector('[data-sidebar-btn]');
@@ -247,4 +245,3 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
->>>>>>> a7aee21636e0b9ec035929f94b0fb512c2fb63c7
